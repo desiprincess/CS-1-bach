@@ -1,4 +1,4 @@
-# Crea una variable llamadda conejos y asignale el valor 126
+# Crea una variable llamada conejos y asignale el valor 126
 
 conejos = 126
 
